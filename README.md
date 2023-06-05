@@ -30,4 +30,6 @@ By following this process, the project ensures that the latest property listing 
 
 ### Future
 
+## Changes
+
 Developing a more robust solution to handle duplicated data and add historical prices to a separate table, ensuring that a property is accurately marked as sold and that further calculations such as 'Days to Sell' and 'Selling Price' are added to a history table.
