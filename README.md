@@ -28,8 +28,8 @@ Once the data is stored in BigQuery, it can be accessed by Grafana for visualiza
 
 By following this process, the project ensures that the latest property listing data is regularly retrieved, transformed, uploaded to BigQuery, and made available for visualization on a Grafana dashboard.
 
-### Future
+## Future
 
-## Changes
+### Changes
 
 Developing a more robust solution to handle duplicated data and add historical prices to a separate table, ensuring that a property is accurately marked as sold and that further calculations such as 'Days to Sell' and 'Selling Price' are added to a history table.
